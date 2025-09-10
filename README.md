@@ -1,9 +1,19 @@
 # RansomAtlas
 
 
+
+## Attribution
+
+If you use this project in your own work, please include the following credit:
+
+> This project includes code developed by Julie BRUNIAS ([[https://github.com/jbdu94/RansomAtlas)]).
+
+
+
 ## Purpose
 Map ransomwares, malwares, and find interesting relationships between them.
 The idea is not only to get the TTPs but also try to obtain as much information as possible, about targeted domains, targeted countries, commands, api calls, libraries used....
+
 
 ## Disclaimer
 I spent hours building this database, using online resources, so please give credit to this work before you reuse it. 
