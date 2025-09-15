@@ -1,6 +1,9 @@
 # RansomAtlas
 
 
+![Github stars](https://img.shields.io/github/stars/jbdu94/RansomAtlas?style=social)
+
+
 
 ## Attribution
 
