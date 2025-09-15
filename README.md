@@ -1,7 +1,7 @@
 # RansomAtlas
 
 
-![Github stars](https://img.shields.io/github/stars/jbdu94/RansomAtlas?style=social)
+![Github stars](https://img.shields.io/github/stars/jbdu94/RansomAtlas?label=⭐️%Stars&style=flat)
 
 
 
